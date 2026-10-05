@@ -1,6 +1,15 @@
-# Phase 8: Project Demonstration
+# AI FitTrack API
 
-## Contents to add in this folder
+**Track:** AI-Augmented Backend Development
+**Team:** AI FitTrack Team 2
 
-- Demo video link (Google Drive, public)
-- Output screenshots
+## Team Members
+- Mohammed Asif R (mohammedasif24cs@gmail.com)
+- Vishnu S (vishnu24cs@gmail.com)
+- Nandhikesava Perumal A (nandhikesavaperumal24cs@gmail.com)
+
+## Project Overview
+FitTrack AI is a free, AI-powered health and fitness tracking platform designed for Indian food preferences and fitness goals.
+
+## Demo Video
+PASTE-GOOGLE-DRIVE-LINK-HERE
